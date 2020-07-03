@@ -18,7 +18,7 @@ tip_rate = 0.18
 tax = check * tax_rate
 tip = check * tip_rate
 total = check + tax + tip
-print("your total is", total))
+print("your total is", total)
 
 check = input("How much is your meal ")
 print(check, type(check))
